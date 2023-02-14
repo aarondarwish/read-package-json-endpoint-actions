@@ -51,7 +51,3 @@ jobs:
         run: echo "${{ steps.package-json-endpoint.outputs.endpoint }}"
 ```
 
-
-# License
-
-MIT
