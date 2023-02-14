@@ -50,4 +50,4 @@ jobs:
       - name: Show version number
         run: echo "${{ steps.package-json-endpoint.outputs.endpoint }}"
 ```
-
+test
